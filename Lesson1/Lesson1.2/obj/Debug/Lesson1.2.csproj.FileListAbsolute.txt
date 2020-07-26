@@ -1,0 +1,7 @@
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\obj\Debug\Lesson1.2.csproj.CoreCompileInputs.cache
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\bin\Debug\Lesson1.2.exe.config
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\bin\Debug\Lesson1.2.exe
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\bin\Debug\Lesson1.2.pdb
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\obj\Debug\Lesson1.2.exe
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\obj\Debug\Lesson1.2.pdb
+C:\Users\naste\source\repos\Lesson1\Lesson1.2\obj\Debug\Lesson1.2.csprojAssemblyReference.cache
