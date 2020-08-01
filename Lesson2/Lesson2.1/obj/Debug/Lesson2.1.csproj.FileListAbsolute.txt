@@ -1,0 +1,6 @@
+C:\Users\naste\source\repos\Lesson2\Lesson2.1\bin\Debug\Lesson2.1.exe.config
+C:\Users\naste\source\repos\Lesson2\Lesson2.1\bin\Debug\Lesson2.1.exe
+C:\Users\naste\source\repos\Lesson2\Lesson2.1\bin\Debug\Lesson2.1.pdb
+C:\Users\naste\source\repos\Lesson2\Lesson2.1\obj\Debug\Lesson2.1.csproj.CoreCompileInputs.cache
+C:\Users\naste\source\repos\Lesson2\Lesson2.1\obj\Debug\Lesson2.1.exe
+C:\Users\naste\source\repos\Lesson2\Lesson2.1\obj\Debug\Lesson2.1.pdb
