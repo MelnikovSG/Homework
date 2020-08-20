@@ -1,0 +1,7 @@
+C:\Users\naste\source\repos\Lesson8\Lesson8\bin\Debug\Lesson8.exe.config
+C:\Users\naste\source\repos\Lesson8\Lesson8\bin\Debug\Lesson8.exe
+C:\Users\naste\source\repos\Lesson8\Lesson8\bin\Debug\Lesson8.pdb
+C:\Users\naste\source\repos\Lesson8\Lesson8\obj\Debug\Lesson8.csprojAssemblyReference.cache
+C:\Users\naste\source\repos\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.CoreCompileInputs.cache
+C:\Users\naste\source\repos\Lesson8\Lesson8\obj\Debug\Lesson8.exe
+C:\Users\naste\source\repos\Lesson8\Lesson8\obj\Debug\Lesson8.pdb

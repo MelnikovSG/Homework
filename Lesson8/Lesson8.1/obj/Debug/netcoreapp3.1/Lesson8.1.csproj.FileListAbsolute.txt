@@ -1,0 +1,15 @@
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\bin\Debug\netcoreapp3.1\Lesson8.1.exe
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\bin\Debug\netcoreapp3.1\Lesson8.1.deps.json
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\bin\Debug\netcoreapp3.1\Lesson8.1.runtimeconfig.json
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\bin\Debug\netcoreapp3.1\Lesson8.1.runtimeconfig.dev.json
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\bin\Debug\netcoreapp3.1\Lesson8.1.dll
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\bin\Debug\netcoreapp3.1\Lesson8.1.pdb
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.csprojAssemblyReference.cache
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8._1.Form1.resources
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.csproj.GenerateResource.cache
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.AssemblyInfoInputs.cache
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.AssemblyInfo.cs
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.csproj.CoreCompileInputs.cache
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.dll
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.pdb
+C:\Users\naste\source\repos\Lesson8\Lesson8.1\obj\Debug\netcoreapp3.1\Lesson8.1.genruntimeconfig.cache
